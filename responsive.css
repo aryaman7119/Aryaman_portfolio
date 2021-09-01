@@ -1,0 +1,43 @@
+@media only screen and (max-width: 600px) {
+  .logo{
+  	position: relative;
+    margin-left: 2px;
+  }
+  .banner{
+  	    width: 100%;
+    	height: 24em;
+  }
+  .banner p{
+  	text-size-adjust: inherit;
+    position: relative;
+    font-size: 1em;
+    text-align: center;
+    margin-left: 0em;
+    padding-top: 7em;
+  }
+
+  .content {
+
+  	text-align: center;
+    margin-left: -2em;
+    font-size: 11px;
+}
+
+.img-responsive {
+    width: 7.5rem;
+    margin: 0rem;
+    margin-left: -0.7em;
+
+    
+    
+
+}
+
+
+
+
+
+}
+
+
+

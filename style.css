@@ -5,7 +5,7 @@
   padding: 0;
   overflow-wrap: normal;
 }
-
+/* front 1 */
 .logo {
   margin-left: 1.8em;
 }
@@ -44,7 +44,10 @@
     font-weight: 299;
     font-size: 31px;
 }
+.img-responsive{
+  width: 30rem;
 
+}
 .content {
   color: aliceblue;
   text-align: left;
@@ -79,7 +82,7 @@
   /*border: 1px solid rgb(223, 64, 64);*/
 }
 
-/* Grid */
+/* Grid section */
 .grid {
   background-color: black;
 }
@@ -88,96 +91,46 @@
   margin: 0;
 }
 
-.row1 {
-  padding: 10px;
-  margin-left: -23px;
-  overflow-x: hidden;
+.photos1 {
+  margin: 0;
+  padding-top: 1em;
 }
 
+.img-responsive{
+  width:100%;
+}
+/* experience Content */
 .experience_content {
   background-color: black;
   width: 100%;
-  height: 600px;
+  height: 43em;
   color: aliceblue;
   overflow-x: hidden;
 }
+.all_cards{
+  padding-top: 3em;
+
+}
+
 
 .heading {
-  padding-top: 2.5em;
+  padding-top: 6.5em;
   align-items: center;
   width: 100%;
 }
-
-.card_row {
-  margin-left: 1em;
-  margin-top: 1.5em;
-}
-
-.card0 {
-  width: 100px;
-  height: 300px;
-  background-color: antiquewhite;
-}
-
-.all_cards {
-  padding-top: 2em;
-  color: black;
-  overflow-x: hidden;
-}
-
 .card {
-  height: 25em;
-  margin: auto;
-  background-color: rgb(255, 255, 255);
+  width: 18em;
+  margin: 1rem;
+  color: black;
+  height: 22em;
 }
 
-.card-body {
-  flex: 1 1 auto;
-  padding: 0rem 2rem;
-  margin-top: 8em;
-}
-/* Below Css is for adjusting images */
-.card_1 {
-  margin-left: 2.2em;
-}
-.card-title {
-  margin-bottom: 11.5rem;
-}
-
-.card-img-top {
-  width: 75%;
-  align-content: center;
-  margin-left: 30px;
-  margin-top: 30px;
-}
-
-.card_2 {
-  margin-top: 1em;
-  margin-left: 2.2em;
-}
-
-.text_2 {
-  margin-top: -19px;
-}
-
-.card_3 {
-  margin-top: 1.2em;
-  margin-left: 2.2em;
-}
-
-.card_4 {
-  margin-top: 1.5em;
-  width: 9em;
-  margin-left: 4.6em;
-}
-
-.card-text {
-  text-align: center;
-}
-
-.button_card {
+.card_logo{
+  width: 13rem;
   margin-left: 3em;
+  margin-top: 3rem;
 }
+
 
 /* banner 2  */
 .banner_2 {
@@ -225,6 +178,7 @@ border: 1px solid red;
 
 .footer_row{
     justify-content: flex-start;
+    margin-top: -4em;
 
 }
 
@@ -244,9 +198,11 @@ border: 1px solid red;
 }
 
 
-.end_line{
-    width: 100%;
-    height: 10em;
-    color: #ffffff;
-    background-color: black;
+.final_footer{
+  height: 50px;
+  width: 100%;
+  background-color: #B41010;
+ 
+
 }
+
