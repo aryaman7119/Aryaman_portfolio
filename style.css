@@ -7,11 +7,15 @@
 }
 /* front 1 */
 .logo {
-  margin-left: 1.8em;
+ margin-left: 4.5em;
 }
 
 .nav_all_items {
-  margin-right: 2em;
+  margin-right: 8em;
+}
+
+.nav-item{
+  margin-right: 1rem;
 }
 
 .banner {
@@ -125,10 +129,66 @@
   height: 22em;
 }
 
-.card_logo{
-  width: 13rem;
-  margin-left: 3em;
+.card_logo1{
+  width: 12rem;
+  margin-left: 3.2rem;
   margin-top: 3rem;
+}
+
+.card_logo2{
+  width: 14rem;
+  margin-left: 2em;
+  margin-top: 2rem;
+}
+.card_logo3{
+  width: 13rem;
+  margin-left: 2.5em;
+  margin-top: 3rem;
+}
+.card_logo4{
+  width: 10rem;
+  margin-left: 4.3em;
+  margin-top: 2rem;
+}
+.button_card1{
+  margin-left: 4em;
+  margin-top: 1.2em;
+
+}
+
+.button_card2{
+  margin-left: 4em;
+  margin-top: 1.7rem;
+
+}
+
+.button_card3{
+  margin-left: 4em;
+  margin-top: 1em;    
+
+}
+
+.button_card4{
+  margin-left: 4em;
+  margin-top: 3.2rem;
+}
+
+.card-text1{
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.card-text2{
+  text-align: center;
+  margin-top: 1.2rem;
+}
+.card-text3{
+  text-align: center;
+  margin-top: 2rem;
+}
+.card-text4{
+  text-align: center;
+  margin-top: 0.5rem;
 }
 
 
