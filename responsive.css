@@ -1,4 +1,9 @@
 @media only screen and (max-width: 600px) {
+  .hero_content{
+    margin-left: 1rem;
+  }
+  
+  
   .logo{
   	position: relative;
     margin-left: 2px;
@@ -34,7 +39,11 @@
 }
 
 .card{
-    margin-left: 2em;
+    margin-left: 3em;
+}
+.heading {
+  margin-left: 0.3rem;
+
 }
 
 

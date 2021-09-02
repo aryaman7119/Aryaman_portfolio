@@ -66,6 +66,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+.photos_row{
+  margin-top: 3rem;
+} 
+
 .call{
     padding-top: 3.1em;
     margin-left: 3.1em;
